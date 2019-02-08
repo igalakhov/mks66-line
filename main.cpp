@@ -34,7 +34,7 @@ int main() {
 
 
     // save
-    drawer->save("test_file.ppm");
+    drawer->save("out.ppm");
 
     delete drawer; // delete
     return 0;
