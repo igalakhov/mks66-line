@@ -1,4 +1,6 @@
 #include <iostream>
+#include <cassert>
+
 #include "settings.h"
 
 #ifndef WORK_01_LINE_DISPLAY_H
